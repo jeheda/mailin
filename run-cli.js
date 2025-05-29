@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// forever-monitor not longer maintaned
 'use strict';
 
 var forever = require('forever-monitor');
